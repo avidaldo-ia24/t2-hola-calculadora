@@ -11,7 +11,7 @@
 
 2. A partir de ahora trabajarás en ese nuevo repositorio. Clónalo en tu ordenador.
 
-3. Crea un fichero calculadora.py que pase los tests de tests/test_calculadora.py. Podrás comprobar si pasa los tests ejecutando `pytest` en la raíz del proyecto o cada vez que haga un push a GitHub, ya que se ejecutarán automáticamente en GitHub Actions.
+3. Crea un fichero que pase los tests de tests/test_calculadora.py. Podrás comprobar si pasa los tests ejecutando `pytest` en la raíz del proyecto o cada vez que haga un push a GitHub, ya que se ejecutarán automáticamente en GitHub Actions.
 
 4. Tras subir una solución que pase los tests, copia el hash de tu último commit y escríbelo en la entrega de la tarea en el aula virtual.
 
