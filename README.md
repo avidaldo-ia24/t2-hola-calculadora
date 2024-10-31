@@ -5,6 +5,7 @@
 1. En lugar de hacer un fork de este repositorio, usaremos este repositorio como plantilla. Pulsa en el botón `Use this template` para crear un nuevo repositorio.
   - Créalo en esta misma organización, no en tu cuenta personal. `Owner` debe ser `avidaldo-ia24`.
   - El nombre del nuevo repo (`Repository name`) debe formarse con el de este (`t2-hola-calculadora`) y tu identificador del [documento de cuentas](https://docs.google.com/spreadsheets/d/18XW2YYho6nsEc2q7Si4vaLQPQz5NVc1WKlXkvUMTLx8/edit?gid=0#gid=0) `nombre1-apellido1`, de modo que quede así: `t2-hola-calculadora-nombre1-apellido1`. Por ejemplo, en mi caso, sería `t2-hola-calculadora-alejandro-vidal`.
+  - Ese nuevo repositorio debe ser privado.
 
 > [!NOTE]  
 > En este caso vamos a utilizar el identificador no para una rama, sino para el nombre del repositorio, de modo que solo tendrás que trabajar en la rama master.
